@@ -1,2 +1,3 @@
 *.llb linguist-language=LabVIEW
 *.vi linguist-language=LabVIEW
+*.lvproj linguist-language=LabVIEW
